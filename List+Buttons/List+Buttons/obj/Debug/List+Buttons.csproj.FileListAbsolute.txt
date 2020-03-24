@@ -1,0 +1,10 @@
+C:\Users\coope\source\repos\List+Buttons\List+Buttons\bin\Debug\List+Buttons.exe.config
+C:\Users\coope\source\repos\List+Buttons\List+Buttons\bin\Debug\List+Buttons.exe
+C:\Users\coope\source\repos\List+Buttons\List+Buttons\bin\Debug\List+Buttons.pdb
+C:\Users\coope\source\repos\List+Buttons\List+Buttons\obj\Debug\List+Buttons.csprojAssemblyReference.cache
+C:\Users\coope\source\repos\List+Buttons\List+Buttons\obj\Debug\List_Buttons.Form1.resources
+C:\Users\coope\source\repos\List+Buttons\List+Buttons\obj\Debug\List_Buttons.Properties.Resources.resources
+C:\Users\coope\source\repos\List+Buttons\List+Buttons\obj\Debug\List+Buttons.csproj.GenerateResource.cache
+C:\Users\coope\source\repos\List+Buttons\List+Buttons\obj\Debug\List+Buttons.csproj.CoreCompileInputs.cache
+C:\Users\coope\source\repos\List+Buttons\List+Buttons\obj\Debug\List+Buttons.exe
+C:\Users\coope\source\repos\List+Buttons\List+Buttons\obj\Debug\List+Buttons.pdb

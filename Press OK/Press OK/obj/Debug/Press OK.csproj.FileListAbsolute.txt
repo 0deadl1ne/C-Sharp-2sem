@@ -1,0 +1,10 @@
+C:\Users\coope\source\repos\Press OK\Press OK\bin\Debug\Press OK.exe.config
+C:\Users\coope\source\repos\Press OK\Press OK\bin\Debug\Press OK.exe
+C:\Users\coope\source\repos\Press OK\Press OK\bin\Debug\Press OK.pdb
+C:\Users\coope\source\repos\Press OK\Press OK\obj\Debug\Press OK.csprojAssemblyReference.cache
+C:\Users\coope\source\repos\Press OK\Press OK\obj\Debug\Press_OK.Properties.Resources.resources
+C:\Users\coope\source\repos\Press OK\Press OK\obj\Debug\Press OK.csproj.GenerateResource.cache
+C:\Users\coope\source\repos\Press OK\Press OK\obj\Debug\Press OK.csproj.CoreCompileInputs.cache
+C:\Users\coope\source\repos\Press OK\Press OK\obj\Debug\Press OK.exe
+C:\Users\coope\source\repos\Press OK\Press OK\obj\Debug\Press OK.pdb
+C:\Users\coope\source\repos\Press OK\Press OK\obj\Debug\Press_OK.Form1.resources
